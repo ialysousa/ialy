@@ -25,4 +25,6 @@ Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data &
   
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ialysousa)
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ialy.sousa@academico.ifpb.edu.br)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialysousa/) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ialy.sousa@academico.ifpb.edu.br)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialysousa/)
+
+![Snake animation](https://github.com/seu-usuário-aqui/ialysousa/blob/output/github-contribution-grid-snake.svg)
