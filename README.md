@@ -11,6 +11,9 @@
 
 Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data & Quality Analysis with Machine Learning  & IA.
 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ialy.sousa@academico.ifpb.edu.br)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialysousa/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ialy+Cordeiro+de+Sousa;I'm+from+Brazil;I+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 ### Technologies & Tools
  ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,8 +29,7 @@ Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data &
   
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ialysousa)
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ialy.sousa@academico.ifpb.edu.br)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialysousa/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ialy+Cordeiro+de+Sousa;I'm+from+Brazil;I+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
