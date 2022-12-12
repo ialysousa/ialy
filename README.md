@@ -10,7 +10,13 @@
 
 ### Hi, welcome to my profile 👋
 
-Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data & Quality Analysis with Machine Learning  & IA.
+:computer: Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data & Quality Analysis with Machine Learning  & IA.
+
+
+:heart_eyes_cat: I love cats, :surfer: beach, :coffee: coffee & :leaves: plants.
+
+
+:muscle: I like work out. I'm a gym rat. 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ialy.sousa@academico.ifpb.edu.br)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialysousa/)
 
