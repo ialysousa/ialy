@@ -1,5 +1,6 @@
 # ialy Sousa
 
+
 <div align="center">
 <h2>Let's code!!!</h2>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
@@ -33,14 +34,18 @@ Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data &
 
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
-<div align="center">  
- 
+
+  <div align="center"> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialysousa&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" /> 
 </div> 
  
 
 
+## 🎓 Certificates
 
+- **[Click here](https://github.com/bryan-lima/certificados)** to see the completed courses and the respective certificates issued
+
+---
 
 <!--Para esta etapa funcionar, é necessário abrir uma workflow com o código em yml -->
 
