@@ -43,7 +43,7 @@ Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data &
 
 ## 🎓 Certificates
 
-- **[Click here](https://github.com/bryan-lima/certificados)** to see the completed courses and the respective certificates issued
+- **[Click here](https://github.com/ialysousa/certificados)** to see the completed courses and the respective certificates issued
 
 ---
 
