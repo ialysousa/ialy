@@ -10,7 +10,7 @@
 
 ### Hi, welcome to my profile 👋
 
-:computer: Engineer, Software Developer, Researcher & Developer in Connected Vehicle Data & Quality Analysis with Machine Learning  & IA.
+:computer: Engineer, Software Developer, Researcher & Developer in Data & Quality Analysis with Machine Learning  & IA.
 
 
 :heart_eyes_cat: I love cats, :surfer: beach, :coffee: coffee & :leaves: plants.
